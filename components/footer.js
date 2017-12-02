@@ -28,7 +28,7 @@ const Footer = () => (
 
                             <li className="mb-2">
                                 <span className="icon icon-Mail text-primary mr-2" />
-                                <a href="mailto:support@echotheme.com">jony327@gmail.com</a>
+                                <a href="mailto:jony327@gmail.com">jony327@gmail.com</a>
                             </li>
                             <li className="mb-2">
                                 <span className="icon icon-Pointer text-primary mr-2" /> Lima, PE

@@ -83,18 +83,20 @@ const IndexPage = () =>
                                 <li><i className="fa fa-check mr-2 color-primary" />Procesamiento de volumenes de imagenes(CVN)</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />generando valor a los datos</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />tratando de crear un chabot a mano (probando)</li>
-
-                            </ul>
-                            <ul className="list-unstyled u-fw-600 u-lh-2">
-                                <li>me encanta divertirme, como tambien compartir conocimiento</li>
-                                <li>He tenigo buenas amistades entre estadisticos, fisicos, matematicos se aprende de todo un poco</li>
                             </ul>
                         </p>
                     </div>
                 </div>
-
+                <div className="row">
+                    <ul className="list-unstyled u-fw-600 u-lh-2">
+                        <li>me encanta divertirme, como tambien compartir conocimiento</li>
+                        <li>He tenigo buenas amistades entre estadisticos, fisicos, matematicos, economistas
+                            se aprende de todo un poco mi parte o valor es ser innovador o tener la capacidad de
+                            resolver problemas.
+                        </li>
+                    </ul>
+                </div>
                 <hr className="u-my-md-80"/>
-
                 <div className="row">
 
                     <div className="media mt-12">
