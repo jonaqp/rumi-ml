@@ -26,12 +26,14 @@ const IndexPage = () =>
                         <p className="lead">
                             ES:
                             Soy ingeniero de sistemas , me gusta el desarrollo asi como tambien analizar los datos y
-                            usando practicas encontradas trato de brindar una solucion a los problemas tomando Cafe.
+                            usando practicas encontradas trato de brindar una solucion a los problemas,
+                            y no falta una taza de Cafe (=
                             <br /><br />
 
                             EN:
                             Im a systems engineer, I like the development as well as analyze the data and using
-                            found practices, I try to provide a solution to the problems, drinking coffee =)
+                            found practices, I try to provide a solution to the problems, and
+                            Do not miss a cup of coffee =)
                         </p>
                     </div>
                 </div>
@@ -55,11 +57,12 @@ const IndexPage = () =>
                             <ul className="list-unstyled u-fw-600 u-lh-2">
 
                                 <li><i className="fa fa-check mr-2 color-primary" />Soy ingeniero de sistemas</li>
-                                <li><i className="fa fa-check mr-2 color-primary" />Soy peruano</li>
+                                <li><i className="fa fa-check mr-2 color-primary" />Tengo 28 años</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />Estudiante de: Maestria data Science</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />Me gusta lo datos</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />Me gusta la programacion</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />Me gusta la analitica</li>
+                                <li><i className="fa fa-check mr-2 color-primary" />8años como developer/ 1año data science</li>
                             </ul>
                             <ul className="list-unstyled u-fw-600 u-lh-2">
                                 <li><b>Trabajo con</b></li>
@@ -67,10 +70,13 @@ const IndexPage = () =>
                                 <li><i className="fa fa-check mr-2 color-primary" />Pyton</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />Nodejs</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />Go</li>
-                                <li><i className="fa fa-check mr-2 color-primary" /> C+</li>
+                                <li><i className="fa fa-check mr-2 color-primary" />C+</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />Javascript ES7</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />Docker</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />Haddop</li>
+                                <li><i className="fa fa-check mr-2 color-primary" />AWS, GC, HEROKU</li>
+                                <li><i className="fa fa-check mr-2 color-primary" />Jenkis, sonar</li>
+                                <li><i className="fa fa-check mr-2 color-primary" />TESTING</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />Multiples Base de datos</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />..etc</li>
                                 <li><i className="fa fa-check mr-2 color-primary" />Machine learning(supervisado)</li>
@@ -81,6 +87,7 @@ const IndexPage = () =>
                             </ul>
                             <ul className="list-unstyled u-fw-600 u-lh-2">
                                 <li>me encanta divertirme, como tambien compartir conocimiento</li>
+                                <li>He tenigo buenas amistades entre estadisticos, fisicos, matematicos se aprende de todo un poco</li>
                             </ul>
                         </p>
                     </div>
