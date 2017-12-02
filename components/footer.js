@@ -19,6 +19,7 @@ const Footer = () => (
                         <ul className="list-unstyled u-lh-2">
                             <li><a href="/">Home </a> </li>
                             <li><a href="/me">Me </a> </li>
+                            <li><a href="/download">Download </a> </li>
                         </ul>
                     </div>
                     <div className="col-lg-3 col-md-6 ml-auto mb-5 mb-lg-0">

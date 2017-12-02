@@ -26,6 +26,9 @@ const Nav = () => (
                         <Link activeClassName='nav-item active' href='/me'>
                             <a className='nav-link'>Me</a>
                         </Link>
+                        <Link activeClassName='nav-item active' href='/download'>
+                            <a className='nav-link'>Download</a>
+                        </Link>
                     </ul>
                 </div>
             </nav>
