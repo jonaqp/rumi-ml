@@ -1,1 +1,1 @@
-web: npm run heroku-postbuild
+web: NODE_ENV=production node server.js

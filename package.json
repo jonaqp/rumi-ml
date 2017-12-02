@@ -1,15 +1,13 @@
 {
-  "name": "create-next-example-app",
+  "name": "rumi-ml",
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start -p $PORT",
-    "heroku-postbuild": "next build"
+    "start" : "NODE_ENV=production node server.js"
   },
   "dependencies": {
     "classnames": "^2.2.5",
     "next": "^4.1.4",
-    "path-to-regexp": "^2.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "styled-components": "^2.2.4"
