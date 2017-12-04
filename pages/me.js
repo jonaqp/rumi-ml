@@ -94,7 +94,7 @@ const IndexPage = () =>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Nodejs</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Go</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>C+</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Javascript ES7</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Javascript ES6</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Docker</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Hadoop</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>AWS, GC, HEROKU</li>
