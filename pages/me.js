@@ -83,23 +83,25 @@ const IndexPage = () =>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Tengo 28 años</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Estudiante de: Maestría data Science</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Me gusta lo datos</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Me gusta la programacion</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Me gusta la programación</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Me gusta la analítica</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>8años como developer/ 1 año y medio como data science</li>
                             </ul>
                             <ul className="list-unstyled u-fw-600 u-lh-2">
                                 <li><b>Trabajo con</b></li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Spark - Pyspark - Scala</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Python3</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Machine Learning</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Python</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Nodejs</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Go</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>C+</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Javascript ES6</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Mobile(React-Native)</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Docker</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Hadoop</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>AWS, GC, HEROKU</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Jenkis, sonar</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>TESTING</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Jenkis, Sonar</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Testing</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Visualizaciones</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Base de datos(SQL y NOSQL)</li>
 
