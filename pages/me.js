@@ -24,15 +24,9 @@ const IndexPage = () =>
                         </h1>
                         <div className="u-h-4 u-w-50 bg-white rounded mx-auto my-4"/>
                         <p className="lead">
-                            ES:
                             Soy ingeniero de sistemas, me gusta el desarrollo, así como también analizar los datos
                             y usando practicas encontradas trato de brindar una solución a los problemas, y no falta una taza de Café
-                            <br /><br />
-
-                            EN:
-                            Im a systems engineer, I like the development as well as analyze the data and using
-                            found practices, I try to provide a solution to the problems, and
-                            Do not miss a cup of coffee =)
+                            <br />
                         </p>
                     </div>
                 </div>
@@ -48,16 +42,16 @@ const IndexPage = () =>
                             <p>
                                 <ol>
                                     <li>Me encanta divertirme, como también compartir conocimiento</li>
-                                    <li>Intentar crear  una plataforma util y sea util para los demas. como <br /> ingeniero es parte de la formación</li>
+                                    <li>Intentar crear una plataforma util y sea util para los demas. como <br /> ingeniero es parte de la formación</li>
                                     <li>He tenido buenas amistades entre estadísticos, físicos, matemáticos,<br />
                                         economistas se aprende conocimiento de todo un poco , mi valor es ser innovador <br />
                                         o tener la capacidad de resolver problemas.
                                     </li>
-                                    <li>Analisis de la Información</li>
+                                    <li>Análisis de la Información</li>
                                     <li>Machine learning(supervisado)</li>
                                     <li>Procesamiento de volúmenes de imágenes(CNN)</li>
                                     <li>Generando valor a los datos</li>
-                                    <li>Tratando de crear un chabot(PAPER)</li>
+                                    <li>Tratando de crear un chabot(Deep Learning)</li>
                                 </ol>
                                 <ul className="list-inline social social-rounded social-white mt-4">
                                     Linkedin:
@@ -85,24 +79,22 @@ const IndexPage = () =>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Me gusta lo datos</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Me gusta la programación</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Me gusta la analítica</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>8años como developer/ 1 año y medio como data science</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>8 años developer/ 1 año y medio como data science</li>
                             </ul>
                             <ul className="list-unstyled u-fw-600 u-lh-2">
                                 <li><b>Trabajo con</b></li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Spark - Pyspark - Scala</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Machine Learning</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Python</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Python3</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Nodejs</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Go</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>C+</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Javascript ES6</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Mobile(React-Native)</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>C++</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Javascript ES7</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Docker</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Hadoop</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>AWS, GC, HEROKU</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Jenkis, Sonar</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Testing</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Visualizaciones</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Jenkis, sonar</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>TESTING</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Visualizaciones(Tableau)</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Base de datos(SQL y NOSQL)</li>
 
                             </ul>
@@ -122,7 +114,7 @@ const IndexPage = () =>
                             <p>
                                 Esta Plataforma que vengo avanzando de a pocos es un aplicación web
                                 o local en la cual haga que conecte a múltiple base de datos, corra
-                                algoritmos, procese volumenes de informacion y vote services API directo a una aplicación
+                                algoritmos, procese volumenes de información y vote services API directo a una aplicación
                                 container Docker-nodejs con visualizacion 3D, seria como una Integracion de Rapipminer o spotfire
                                 tableau, y contenedor bajo microservicios.
                                 <br />
@@ -141,7 +133,7 @@ const IndexPage = () =>
                             <p>
                                 Por lo que se busca es resolver problemas con ML aplicando casi todas las técnicas posibles
                                 y es gratis cuando se libere.<br />
-                                Por otro lado estoy tratando de ver que sean micro-modulos de integracion para que otros usuarios
+                                Por otro lado estoy tratando de ver que sean micro-modulos de integración para que otros usuarios
                                 si gustan compartan problemas y algoritmos y la plataforma pueda soportarlo.<br />
                                 El tratamiento de las variables son los que darán valor.<br />
                                 Espero tener tiempo de a poco avanzar y lanzarlo

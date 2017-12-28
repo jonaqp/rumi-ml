@@ -24,7 +24,7 @@ const IndexPage = () =>
                       </h1>
                       <div className="u-h-4 u-w-50 bg-white rounded mx-auto my-4" />
                       <p className="lead">
-                          Application for run algoritms using Spark - open source
+                          Aplicación para correr algoritmos usindp Spark - open source
                       </p>
                   </div>
               </div>
@@ -71,10 +71,10 @@ const IndexPage = () =>
                               <ul>
                                   <li>Combine</li>
                                   <li>Enrich</li>
-                                  <li>Apply bussines rules </li>
-                                  <li>Hipothesize</li>
+                                  <li>Apply business rules </li>
+                                  <li>Hypothesize</li>
                                   <li>Build Analytic Models</li>
-                                  <li>Diagnotics</li>
+                                  <li>Diagnostics</li>
                                   <li>Evaluate</li>
                                   <li>Metrics and Precision</li>
                               </ul>
@@ -102,9 +102,9 @@ const IndexPage = () =>
                                   <li>Report</li>
                                   <li>Alert</li>
                                   <li>New Insights </li>
-                                  <li>Interatice KPI</li>
-                                  <li>Recomnedations</li>
-                                  <li>Mesuare ROI</li>
+                                  <li>Interactive KPI</li>
+                                  <li>Recommendations</li>
+                                  <li>Measure ROI</li>
                               </ul>
                           </p>
                       </div>
