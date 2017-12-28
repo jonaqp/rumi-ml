@@ -8,8 +8,8 @@ const Footer = () => (
                     <div className="col-lg-4 mb-5 mb-lg-0">
                         <img src="/static/themes/assets/img/logo-inverse.png" />
                             <p className="u-my-40">
-                                Free application to work and process large volumes of information using Spark and other tools and methodologies,
-                                is based on problems and how machine learning can solve it.
+                                Aplicación gratuita para trabajar y procesar grandes volúmenes de información utilizando Spark y otras herramientas y metodologías,
+                                se basa en problemas y cómo el aprendizaje automático puede resolverlo.
                             </p>
 
                     </div>
@@ -17,9 +17,9 @@ const Footer = () => (
                         <h4>Links</h4>
                         <div className="u-h-4 u-w-50 bg-primary rounded mt-3 u-mb-40" />
                         <ul className="list-unstyled u-lh-2">
-                            <li><a href="/">Home </a> </li>
+                            <li><a href="/">Inicio </a> </li>
                             <li><a href="/me">Me </a> </li>
-                            <li><a href="/download">Download </a> </li>
+                            <li><a href="/download">Descargar </a> </li>
                         </ul>
                     </div>
                     <div className="col-lg-3 col-md-6 ml-auto mb-5 mb-lg-0">
