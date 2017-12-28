@@ -21,13 +21,13 @@ const Nav = () => (
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav ml-auto">
                         <Link activeClassName='nav-item active' href='/'>
-                            <a className='nav-link'>Home</a>
+                            <a className='nav-link'>Inicio</a>
                         </Link>
                         <Link activeClassName='nav-item active' href='/me'>
                             <a className='nav-link'>Me</a>
                         </Link>
                         <Link activeClassName='nav-item active' href='/download'>
-                            <a className='nav-link'>Download</a>
+                            <a className='nav-link'>Descargar</a>
                         </Link>
                     </ul>
 

@@ -115,7 +115,7 @@ const IndexPage = () =>
                                 Esta Plataforma que vengo avanzando de a pocos es un aplicación web
                                 o local en la cual haga que conecte a múltiple base de datos, corra
                                 algoritmos, procese volumenes de información y vote services API directo a una aplicación
-                                container Docker-nodejs con visualizacion 3D, seria como una Integracion de Rapipminer o spotfire
+                                container Docker-nodejs con visualizacion 3D, seria como una Integración de Rapipminer o spotfire
                                 tableau, y contenedor bajo microservicios.
                                 <br />
                                 Tengo que suerte de conocer gente muy buena e interesante con mucha experiencia y
@@ -133,7 +133,7 @@ const IndexPage = () =>
                             <p>
                                 Por lo que se busca es resolver problemas con ML aplicando casi todas las técnicas posibles
                                 y es gratis cuando se libere.<br />
-                                Por otro lado estoy tratando de ver que sean micro-modulos de integración para que otros usuarios
+                                Por otro lado estoy tratando de ver que sean micro-módulos de integración para que otros usuarios
                                 si gustan compartan problemas y algoritmos y la plataforma pueda soportarlo.<br />
                                 El tratamiento de las variables son los que darán valor.<br />
                                 Espero tener tiempo de a poco avanzar y lanzarlo
