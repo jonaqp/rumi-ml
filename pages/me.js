@@ -24,7 +24,7 @@ const IndexPage = () =>
                         </h1>
                         <div className="u-h-4 u-w-50 bg-white rounded mx-auto my-4"/>
                         <p className="lead">
-                            Soy ingeniero de sistemas, me gusta el desarrollo, así como también analizar los datos
+                            Soy ingeniero de sistemas, me gusta el desarrollo, así como también el Análisis los datos
                             y usando practicas encontradas trato de brindar una solución a los problemas, y no falta una taza de Café
                             <br />
                         </p>
@@ -74,17 +74,21 @@ const IndexPage = () =>
                             <ul className="list-unstyled u-fw-600 u-lh-2">
 
                                 <li><i className="fa fa-check mr-2 color-primary"/>Soy ingeniero de sistemas</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Tengo 28 años</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Estudiante de: Maestría data Science</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Tengo 27 años</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Estudiante de: Maestría Ciencia de Datos</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Me gusta lo datos</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Me gusta la programación</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Me gusta la analítica</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Competicion de Kaggle solo Publicas</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>8 años developer/ 1 año y medio como data science</li>
                             </ul>
                             <ul className="list-unstyled u-fw-600 u-lh-2">
                                 <li><b>Trabajo con</b></li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Spark - Pyspark - Scala</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Python3</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>H2O</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Matematicas</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Estadistica</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Nodejs</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Go</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>C++</li>
@@ -148,50 +152,6 @@ const IndexPage = () =>
                             </h4>
                             <p>
                                 <img src="/static/themes/assets/img/how-work/arquitectura.png" className="bg-primary u-mb-20"/>
-                            </p>
-                        </div>
-                    </div>
-
-                    <div className="media mt-12">
-                        <span className="icon icon-Bulb text-primary u-fs-28 mr-3 mt-2"/>
-                        <div className="media-body">
-                            <h2 className="mb-4">
-                                Un Desafío
-                            </h2>
-                            <p>
-                                Mi compañera trabaja en banca trabaja en crediticios, le es muy difícil dar créditos
-                                por mas experiencias que tenga, su banco no cuenta con un sistema o una aplicación que
-                                pueda resolver si su usuario pertenece a una categoría de pagadores o no pagadores o semi pagadores.
-                                Le toca entrar a un DB buscar, ver historial creditico entre otras cosas más..<br />
-
-                                hasta que llega a una conclusión, es muy tiempo muy valioso que pierde, mi compañera me cuenta
-                                que tiene una solución posible pero no puede ya es un tiempo más de resolver buscar las variables..
-                            </p>
-
-                            <p>
-                                <ul>
-                                    <li className="mb-2">
-                                        <b>Respuesta 1:</b>Como científico de datos. atacas el problema, defines...etc.
-                                        RUMI-ML ya tiene algo que estoy avanzado con geolocalización las variables podrían
-                                        ser seria longitud , latitud, dni, departamento formato RENIEC, entre otras a analizar
-                                        usar " (K-mean)" te vota usuario por un tipo en un mapa(Leaflet) con los sectores a quienes
-                                        is se les puede dar crédito, como está entrenado, podría poner el dni o ubicación y ya podría
-                                        dar un análisis de qué tipo de sector que viene y dar o no el crédito. obviamente esto es
-                                        algo básico ya que existen otro método,
-                                        pero por el momento ya tiene algo con que ayudarse y con mejoras se podrá implementar otros algoritmos
-                                    </li>
-                                    <li className="mb-2">
-                                        <b>Respuesta 2:</b>
-                                        Como científico de datos. atacas el problema, defines...etc. en otros países a veces tienes
-                                        que decirle en por "NO TE DOY EL CREDITO", posiblemente algunos empleados, mucho trabajo,
-                                        mucho estrés no tiene las palabras adecuadas que decirle en otros modos porque no le das el
-                                        crédito solicitado, con "Lenguaje Natural" se podría dar valor de texto a ciertas variables
-                                        formando la frase y de la forma más bonita para decirle un NO
-                                        y no se sienta discriminado suena muy duro, pero la realidad así se juega en el mundo bancario..
-                                        <br/>
-                                        tranquilamente el sistema votaría el texto y el usuario la leería sería una ayuda.
-                                    </li>
-                                </ul>
                             </p>
                         </div>
                     </div>
