@@ -72,15 +72,12 @@ const IndexPage = () =>
                         <div className="u-h-4 u-w-50 bg-primary rounded mt-4 u-mb-40"/>
                         <p>
                             <ul className="list-unstyled u-fw-600 u-lh-2">
-
-                                <li><i className="fa fa-check mr-2 color-primary"/>Soy ingeniero de sistemas</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Tengo 27 años</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>Estudiante de: Maestría Ciencia de Datos</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Tengo 28 años</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Estudiante de: Maestría</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Me gusta lo datos</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Me gusta la programación</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Me gusta la analítica</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Competicion de Kaggle solo Publicas</li>
-                                <li><i className="fa fa-check mr-2 color-primary"/>8 años developer/ 1 año y medio como data science</li>
                             </ul>
                             <ul className="list-unstyled u-fw-600 u-lh-2">
                                 <li><b>Trabajo con</b></li>
@@ -89,6 +86,7 @@ const IndexPage = () =>
                                 <li><i className="fa fa-check mr-2 color-primary"/>H2O</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Matematicas</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Estadistica</li>
+                                <li><i className="fa fa-check mr-2 color-primary"/>Finanzas</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Nodejs</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Go</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>C++</li>
@@ -100,7 +98,7 @@ const IndexPage = () =>
                                 <li><i className="fa fa-check mr-2 color-primary"/>TESTING</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Visualizaciones(Tableau)</li>
                                 <li><i className="fa fa-check mr-2 color-primary"/>Base de datos(SQL y NOSQL)</li>
-
+                                <li><i className="fa fa-check mr-2 color-primary"/>Me describo como consumidor</li>                
                             </ul>
                         </p>
                     </div>
