@@ -24,7 +24,7 @@ const IndexPage = () =>
                       </h1>
                       <div className="u-h-4 u-w-50 bg-white rounded mx-auto my-4" />
                       <p className="lead">
-                          Aplicación para correr algoritmos usindo Spark - open source
+                          Aplicación para correr algoritmos usando Spark - open source
                       </p>
                   </div>
               </div>
